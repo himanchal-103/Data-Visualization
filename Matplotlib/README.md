@@ -1,6 +1,8 @@
 # Matplotlib
 This repository contains a Jupyter notebook demonstrating various Matplotlib charts and techniques. The notebook serves as a practical guide for creating and customizing different types of plots using Matplotlib, a popular plotting library in Python.
 
+**NOTE**: Some sections utilize datasets organized by their corresponding labels.
+
 ## Table of Contents
 
 1. [Creating and Customizing Our First Plot](#creating-and-customizing-our-first-plot)
